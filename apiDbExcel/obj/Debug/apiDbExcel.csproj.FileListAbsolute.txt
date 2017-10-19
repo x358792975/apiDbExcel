@@ -1,0 +1,7 @@
+c:\users\seancui\documents\visual studio 2017\Projects\apiDbExcel\apiDbExcel\bin\Debug\apiDbExcel.exe.config
+c:\users\seancui\documents\visual studio 2017\Projects\apiDbExcel\apiDbExcel\bin\Debug\apiDbExcel.exe
+c:\users\seancui\documents\visual studio 2017\Projects\apiDbExcel\apiDbExcel\bin\Debug\apiDbExcel.pdb
+c:\users\seancui\documents\visual studio 2017\Projects\apiDbExcel\apiDbExcel\obj\Debug\apiDbExcel.csprojResolveAssemblyReference.cache
+c:\users\seancui\documents\visual studio 2017\Projects\apiDbExcel\apiDbExcel\obj\Debug\apiDbExcel.csproj.ResolveComReference.cache
+c:\users\seancui\documents\visual studio 2017\Projects\apiDbExcel\apiDbExcel\obj\Debug\apiDbExcel.exe
+c:\users\seancui\documents\visual studio 2017\Projects\apiDbExcel\apiDbExcel\obj\Debug\apiDbExcel.pdb
